@@ -29,7 +29,7 @@ Frontend Localization Guide
       forAdmins, forDevelopers, forIntermediates
 
 :Copyright:
-      2000-2013
+      2000-2016
 
 :Author:
       Documentation Team
